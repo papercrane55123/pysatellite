@@ -10,5 +10,8 @@
     "pysatellite"
   ],
   "author": "pysatellite",
-  "license": "ISC"
+  "license": "ISC",
+   "bin": {
+    "pysatellite": "./index.js"
+  }
 }
