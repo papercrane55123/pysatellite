@@ -1,6 +1,6 @@
 {
   "name": "minicrane",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "minicrane",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,6 @@
   "author": "minicrane",
   "license": "ISC",
    "bin": {
-    "pysatellite": "./index.js"
+    "minicrane": "./index.js"
   }
 }
