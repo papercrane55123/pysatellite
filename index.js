@@ -68,3 +68,7 @@ console.log(`%c\n
 +++++++++====+#%%%%#=*#%%%@@%#******++**+*#**++==========--::::------==-=====++==++=::::::::::::::::
 ++++++++====+#%%%%#-:+*#%%%@%%#***++++++++***++=============---------=-===========++======-:::::::::
 `);
+
+const array = process.argv.slice(2);
+for(let i = 0 ; i < array.length ; i++){console.log(array[i])};
+console.log("발표자 : " + array[Math.floor(Math.random()*array.length)]);
