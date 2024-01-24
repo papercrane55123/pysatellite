@@ -1,15 +1,15 @@
 {
   "name": "minicrane",
   "version": "0.1.0",
-  "description": " pysatellite",
+  "description": "minicrane",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "pysatellite"
+    "minicrane"
   ],
-  "author": "pysatellite",
+  "author": "minicrane",
   "license": "ISC",
    "bin": {
     "pysatellite": "./index.js"
